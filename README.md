@@ -21,7 +21,7 @@ Castelporziano, Rome. Integrates FluxNet, NASA, and ERA5 open datasets.
 
 ## 🚀 Live Demo
 
-👉 [Try the live agent]([https://wetland-carbon-agent-cqlcrrplcstxzrzklasjr8.streamlit.app/])
+👉 [Try the live agent](https://wetland-carbon-agent-cqlcrrplcstxzrzklasjr8.streamlit.app/)
 
 ## 🛠️ Built With
 
