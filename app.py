@@ -144,8 +144,8 @@ with tab2:
         # Download
         st.download_button(
             "📥 Download Full Report",
-            data=f"WETLAND MONITORING REPORT
-{'='*50}
+            data=f"WETLAND MONITORING REPORT\n{'='*50}\nGenerated: {report['generated_at']}\nSite: {report['site']}\n\n{report['content']}",
+
 Generated: {report['generated_at']}
 Site: {report['site']}
 
